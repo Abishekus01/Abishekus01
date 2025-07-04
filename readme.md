@@ -18,7 +18,7 @@
 🌐 **Connect with me** 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-u-s-488b0b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## 💻 **Tech Stack**  
+## 💻 **Overall Tech Stack**  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
