@@ -39,6 +39,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekus01&layout=donut&theme=radical&hide_border=false&border_radius=15&langs_count=8&custom_title=🧠%20Top%20Languages%20Used" alt="Top Languages" width="49%"/>
 </p>
 
+<p align="center">
+  <b>🎓 Language Grades:</b><br>
+  🟣 HTML – B- &nbsp;&nbsp; 🔵 JavaScript – C &nbsp;&nbsp; 🔴 Python – A <br>
+  🟢 CSS – B &nbsp;&nbsp; 🟠 C++ – A- &nbsp;&nbsp; 🟤 Java – B+
+</p>
 
 
 
