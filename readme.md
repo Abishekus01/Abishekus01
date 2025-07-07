@@ -39,13 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekus01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <b>🎓 Language Grades:</b><br>
-  🟣 HTML – B- &nbsp;&nbsp; 🔵 JavaScript – C &nbsp;&nbsp; 🔴 Python – A <br>
-  🟢 CSS – B &nbsp;&nbsp; 🟠 C++ – A- &nbsp;&nbsp; 🟤 Java – B+
-</p>
-
-
 
 ### 🔥 **Current Status & Progress**  
 - **Admin** and **Main-Contributor** for [SASTRA Projects](https://github.com/SASTRA-Projects)
