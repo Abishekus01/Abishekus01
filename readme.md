@@ -6,14 +6,7 @@
 
 🎓  B.Tech CSE 3rd Year | Always curious to go beyond the syllabus  
 🛠️  Contributor to academic and open-source projects  
-🌐  Building Flask + MySQL based academic web apps  
-💡  Exploring the connection between logic, systems, and user experience  
-📚  I learn through hands-on examples and real-time debugging  
-🧠  I love diving deep into edge cases, exceptions & advanced logic  
-🔍  Currently mastering SQL triggers, stored procedures & compiler concepts  
-⚙️  Regularly solving algorithm problems using C++ and Java  
-🛤️  Interested in system design, OS internals, and database optimization    
-
+🌐  Building Flask + MySQL based academic web apps
 
 🌐 **Connect with me** 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishek-u-s-488b0b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
