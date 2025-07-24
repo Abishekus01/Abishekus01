@@ -26,7 +26,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-## 📊 *GitHub Stats*  
+## 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abishekus01&show_icons=true&theme=tokyonight&hide_border=true" alt="Abishek's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekus01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
