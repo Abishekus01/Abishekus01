@@ -46,7 +46,7 @@
 - **Admin** for [PlayStore Web-Application](https://github.com/Abishekus01/PlayStore.git)  
 - 🚀 Building [ZenVault](https://github.com/Abishekus01/ZenVault) – Secure Multi-User Password Vault  
 - 🎮 Developing [Pong-Game](https://github.com/Abishekus01/Pong-Game) – Classic JS Arcade Game  
-- 🏫 Creating [SPS](https://github.com/Abishekus01/sps) – Student Project System with Flask + MySQL  
+- 🏫 Creating [SPS](https://github.com/Abishekus01/sps) – Stone Paper Scissor with Flask + MySQL  
 - Completed certification: **The Complete Full-Stack Web Development Bootcamp (Udemy)**  
 - Working on: **DSA programs**, **Java Swing apps**, **Flask web apps**  
 - Building my developer profile through **consistent open-source contributions**  
