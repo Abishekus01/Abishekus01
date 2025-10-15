@@ -20,33 +20,33 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()  
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abishekus01&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=20&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" width="85%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abishekus01&show_icons=true&include_all_commits=true&count_private=true&theme=radical&border_radius=20&title_color=ffcc00&icon_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" style="max-width:100%; height:auto;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekus01&layout=donut&theme=radical&border_radius=20&title_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="85%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishekus01&layout=donut&theme=radical&border_radius=20&title_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="Top Languages" style="max-width:100%; height:auto;"/>
 </p>
 
 ---
@@ -54,11 +54,11 @@
 ## ⚡ Streak & Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishekus01&theme=radical&border_radius=20&ring=ffcc00&fire=ffcc00&currStreakLabel=ffffff&background=0d1117" alt="GitHub Streak Stats" width="85%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishekus01&theme=radical&border_radius=20&ring=ffcc00&fire=ffcc00&currStreakLabel=ffffff&background=0d1117" alt="GitHub Streak Stats" style="max-width:100%; height:auto;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishekus01&theme=react-dark&bg_color=0d1117&color=ffcc00&line=ffcc00&point=ffffff&hide_border=false&radius=20" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishekus01&theme=react-dark&bg_color=0d1117&color=ffcc00&line=ffcc00&point=ffffff&hide_border=false&radius=20" alt="Contribution Graph" style="max-width:100%; height:auto;"/>
 </p>
 
 ---
