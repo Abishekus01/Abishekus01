@@ -63,16 +63,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="/mnt/data/A_digital_graphic_design_banner_features_Abishek_U.png" 
-       width="95%" 
-       alt="GitHub Insights Banner">
-</p>
-
----
-
 ## ⚡ Streak & Contribution Activity  
 
 <p align="center">
