@@ -21,7 +21,7 @@
       Backend & Full-Stack Developer (Flask + MySQL)</li>
 
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="25px"/> 
-      Focused on DSA, Java & System-level Programming</li>
+      Focused on DSA, C++, Python & System-level Programming</li>
 
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25px"/> 
       Exploring AI, automation & smart backend systems</li>
