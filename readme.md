@@ -95,7 +95,7 @@
 
 - 🔥 Advanced **DSA**  
 - ☕ **Java Swing** desktop apps  
-- 🧰 Backend engineering with **Flask + MySQL**  
+- 🧰 Learning Backend engineering with **Flask + MySQL**  
 - 📈 Becoming a strong full-stack engineer  
 - 🤝 Open-source contributions  
 
